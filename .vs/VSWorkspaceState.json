@@ -3,8 +3,11 @@
     "",
     "\\Client",
     "\\Client\\.angular",
-    "\\ProjAPI"
+    "\\Client\\src",
+    "\\Client\\src\\app",
+    "\\ProjAPI",
+    "\\ProjAPI\\Controller"
   ],
-  "SelectedNode": "\\Client",
+  "SelectedNode": "\\ProjAPI\\Controller\\PessoasController.cs",
   "PreviewInSolutionExplorer": false
 }
